@@ -1,4 +1,4 @@
-https://www.peakpx.com/en/hd-wallpaper-desktop-vlgcy
+
 <h1 align="center">Merhaba 👋, ben coderlawyerr</h1>
 <h3 align="center">Türkiye'den tutkulu bir mobil geliştirici</h3>
 
