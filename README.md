@@ -1,4 +1,4 @@
-"file:///C:/Users/betul/OneDrive/Masa%C3%BCst%C3%BC/HelloWorld.svg"
+
 <h1 align="center">Merhaba 👋, ben coderlawyerr</h1>
 <h3 align="center">Türkiye'den tutkulu bir mobil geliştirici</h3>
 
