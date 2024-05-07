@@ -1,17 +1,46 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=coderlawyerr.coderlawyerr&"  />
+</div>
 
-<h1 align="center">Merhaba 👋, ben coderlawyerr</h1>
-<h3 align="center">Türkiye'den tutkulu bir mobil geliştirici</h3>
+###
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=coderlawyerr&label=Profile%20views&color=0e75b6&style=flat" alt = "coderlawyerr" /> </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
 
-<p align = "left"> <a href = "https:/ /github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=coderlawyerr" alt = "coderlawyerr" /></a > </p>
+###
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/betül şensoy" target=" boş"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt = "betül şensoy" height = "30" width = "40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderlawyerr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderlawyerr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<h3 align = "left"> Diller ve Araçlar:</h3>
-<p align = "left" > <a href = "https://dart.dev" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt = "dart" width = "40" height = "40"/> </a> <a href = "https://flutter.dev" target = "_blank" rel = "noreferrer"> <img src = " https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt = "flutter" width = "40" height = "40"/> </a> <a href = "https:// www.java.com" target = "_blank" rel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt= "java" width = "40" height = "40"/> </a> </p>
+###
 
-<p> <img align = "center" src = "https://github-readme-stats.vercel. app/api?username=coderlawyerr&show_icons=true&locale=en" alt="coderlawyerr" /></p>
+<img src="https://raw.githubusercontent.com/coderlawyerr/coderlawyerr/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
+###
